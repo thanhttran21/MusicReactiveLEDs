@@ -1,4 +1,4 @@
-# MusicReactiveLEDs
+# Music Reactive LEDs
 UC Application: Creativity, Fall 2019
 
 [Inspiration](https://learn.sparkfun.com/tutorials/interactive-led-music-visualizer/all)
@@ -32,8 +32,11 @@ The fourth track consisted of the drums. This is definitely the most difficult p
 Throughout the recording process, I manipulated each component of the song to sound as similar to the original song as much as possible. 
 
 ## Engineering & Arduino
-[Schematic](Schematic.png)
+![Schematic](Schematic.png)
 
 While doing this project, I learned about "sequenced averages" and how it was used to adjust the average of the volume so we get a much better response as compared to using "true averages". A great explanation can be found [here](https://github.com/mbartlet/SparkFun-RGB-LED-Music-Sound-Visualizer-Arduino-Code/blob/master/code%20math.md)
 
-Although none of this was my original work, I still learned so much from figuring out the circuit and the code. I learned how people are able to implement mathematical models into code that the Arduino can process and direct the LED lights.
+Although none of this was my original work, I still learned so much from figuring out the circuit and the code. I learned about signal processing and sampling and Fast Fourier Transformation. I learned how people are able to implement mathematical models into code that the Arduino can process and direct the LED lights. 
+
+Most importantly, I learned that there is so much for me to learn and that excites me.
+![Circuit](Circuit.png)
