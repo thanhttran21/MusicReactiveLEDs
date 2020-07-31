@@ -28,3 +28,5 @@ The third track consisted of the constant bass line. Simple but absolutely neces
 The fourth track consisted of the drums. This is definitely the most difficult part to figure out. I needed to layer the bass drums, the snares, and the hi hats all in one track.
 
 Throughout the recording process, I manipulated each component of the song to sound as similar to the original song as much as possible. 
+
+## Engineering & Arduino
