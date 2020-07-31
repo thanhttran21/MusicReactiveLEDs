@@ -13,7 +13,8 @@ I was a part of the school choir for the rest of elementary, middle, and high sc
 I wanted to create LED lights that would react to the music, combining my love for music and engineering.
 
 ## Music & OP-1
-![OP-1][OP-1.png]
+![OP-1](OP-1.png)
+![808s & Heartbreak](808s.png)
 
 The OP-1 is a synthesizer, sampler, and sequencer capable of playing 4 tracks concurrently.
 
