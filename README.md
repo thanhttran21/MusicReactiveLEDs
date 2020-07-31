@@ -10,7 +10,7 @@ I hated choir in 4th grade. I thought choir songs were uninspiring until we sang
 
 I was a part of the school choir for the rest of elementary, middle, and high school. I became the Bass Section Leader and sang in the Mixed, Concert, and Chamber Choir in high school and performed countless concerts, including two operas. I also took part in my high school's theatre program taking on leadership roles as Music Director and Light Director. 
 
-I wanted to create LED lights that would react to the music, combining my love for music and engineering.
+I wanted to create LED lights that would react to the music, combining my love for music and engineering. I worked on this project throughout November 2019.
 
 ## Music & OP-1
 The OP-1 is a synthesizer, sampler, and sequencer capable of playing 4 tracks concurrently.
