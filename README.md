@@ -1,6 +1,8 @@
 # MusicReactiveLEDs
 UC Application: Creativity, Fall 2019
 
+[Inspiration](https://learn.sparkfun.com/tutorials/interactive-led-music-visualizer/all)
+
 ## Background
 "Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side."
 
