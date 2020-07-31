@@ -13,12 +13,11 @@ I was a part of the school choir for the rest of elementary, middle, and high sc
 I wanted to create LED lights that would react to the music, combining my love for music and engineering.
 
 ## Music & OP-1
-![OP-1](OP-1.png)
-![808s & Heartbreak](808s.png)
-
 The OP-1 is a synthesizer, sampler, and sequencer capable of playing 4 tracks concurrently.
+![OP-1](OP-1.png)
 
 The song I chose to reverse engineer was *Kanye West - Paranoid*.
+![808s & Heartbreak](808s.png)
 
 The first track consisted of the main melodic line of the song. I practiced it by ear and figured out how to record and play it on the OP-1's keyboard.
 
