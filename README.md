@@ -39,4 +39,5 @@ While doing this project, I learned about "sequenced averages" and how it was us
 Although none of this was my original work, I still learned so much from figuring out the circuit and the code. I learned about signal processing and sampling and Fast Fourier Transformation. I learned how people are able to implement mathematical models into code that the Arduino can process and direct the LED lights. 
 
 Most importantly, I learned that there is so much for me to learn and that excites me.
+
 ![Circuit](Circuit.png)
