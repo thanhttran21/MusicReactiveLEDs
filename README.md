@@ -18,7 +18,8 @@ I wanted to create LED lights that would react to the music, combining my love f
 The OP-1 is a synthesizer, sampler, and sequencer capable of playing 4 tracks concurrently.
 ![OP-1](OP-1.png)
 
-The song I chose to reverse engineer was *Kanye West - Paranoid*.
+The song I chose to reverse engineer was *Paranoid - Kanye West*.
+
 ![808s & Heartbreak](808s.png)
 
 The first track consisted of the main melodic line of the song. I practiced it by ear and figured out how to record and play it on the OP-1's keyboard.
