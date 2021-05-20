@@ -41,7 +41,7 @@ Although none of this was my original work, I still learned so much from figurin
 
 Most importantly, I learned that there is so much for me to learn and that excites me. 
 
-[Here](https://drive.google.com/file/d/1hRq26vn9UIaweMYBV1ZRIstVV1CZJorJ/view?usp=sharing) is a video I made using the OP-1 & my music reactive LEDs!
+# [Here](https://drive.google.com/file/d/1hRq26vn9UIaweMYBV1ZRIstVV1CZJorJ/view?usp=sharing) is a video I made using the OP-1 & my music reactive LEDs!
 
 
 My circuit: 
